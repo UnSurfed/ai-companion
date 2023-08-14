@@ -56,7 +56,7 @@ export const Companions = ({
                         </CardHeader>
                         <CardFooter className="flex items-center justify-between text-xs text-muted-foreground">
                             <p className="lowercase">
-                                @{item.username}
+                                @{item.userName}
                             </p>
                             <div className="flex items-center">
                                 <MessagesSquare className="w-3 h-3 mr-1"/>
